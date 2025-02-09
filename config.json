@@ -1,0 +1,6 @@
+{
+    "YThost": "127.0.0.1", //The TH-CH Youtube Music API
+    "YTport": "26538",
+    "BridgeHost": "0.0.0.0", //The hostname you want to host the bridge on. This should be the default YTMDesktop server ip
+    "BridgePort": "9863" // Leave unchanged if you just want to use the Craftify mod
+}
